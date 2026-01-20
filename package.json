@@ -1,0 +1,20 @@
+{
+  "name": "dr-montserrat-landing",
+  "version": "1.0.0",
+  "description": "Landing page para Dra. Montserrat Betanzos - Medicina Estética y Trasplante Capilar",
+  "scripts": {
+    "upload-videos": "node scripts/upload-videos.js",
+    "dev": "echo 'Abre index.html en tu navegador local'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["landing-page", "medicina-estetica", "vercel"],
+  "author": "Carlos Rivera",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/blob": "^0.23.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

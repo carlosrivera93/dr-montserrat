@@ -62,3 +62,17 @@ Con $350 MXN/día (CPC estimado en medicina: $15-$25 MXN por visita de calidad a
 
 ## Recomendación Final
 **NO apagues la campaña a los 3 días.** El algoritmo tarda 7 días en aprender quién es tu cliente ideal. Aguanta la "Fase de Aprendizaje".
+
+---
+
+## 4. Guion "All-In-One" (La Versión de 25 Segundos)
+**Objetivo:** Comunicar quién eres, qué haces y por qué eres segura en menos de 30 segundos. Ideal para Remarketing o Audiencias Amplias.
+
+*   **0-5s (Hook Visual):** Dra. Montse en plano medio, confiada, con bata blanca impecable. Texto en pantalla: "🚫 Lo barato sale caro".
+    *   *Audio:* "Tu cara y tu cabello no son para ofertas."
+*   **5-12s (Problema/Autoridad):** Cortes rápidos de ella revisando a un paciente + close up de producto certificado (caja de Dysport/Insumos).
+    *   *Audio:* "Soy la Dra. Montserrat Betanzos. Muchos bajan precios usando productos piratas o diluidos. Aquí, tu seguridad es primero."
+*   **12-20s (Solución/Servicios):** Split screen o transición rápida: Lado A (Cabello denso/Injerto) / Lado B (Rostro rejuvenecido/Botox).
+    *   *Audio:* "¿Buscas injerto capilar o rejuvenecimiento facial sin riesgos? Solo uso marcas certificadas y protocolos médicos."
+*   **20-25s (CTA + Ubicación):** Plano de la Torre Omnivitalia o consultorio bonito + Texto con botón.
+    *   *Audio:* "Estoy en Torre Omnivitalia Sur. Agenda tu valoración médica real hoy mismo."
